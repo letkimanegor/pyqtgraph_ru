@@ -63,12 +63,12 @@
     <message>
         <location filename="../exporters/SVGExporter.py" line="31"/>
         <source>width</source>
-        <translation>ширина</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../exporters/SVGExporter.py" line="31"/>
         <source>height</source>
-        <translation>высота</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../exporters/PrintExporter.py" line="40"/>
@@ -376,7 +376,7 @@
     <message>
         <location filename="../graphicsItems/ViewBox/axisCtrlTemplate_generic.py" line="69"/>
         <source>Link Axis:</source>
-        <translation>Сихнонизация осей:</translation>
+        <translation>Синхр. осей:</translation>
     </message>
     <message>
         <location filename="../graphicsItems/ViewBox/axisCtrlTemplate_generic.py" line="70"/>
@@ -451,7 +451,7 @@
     <message>
         <location filename="../graphicsItems/ViewBox/axisCtrlTemplate_generic.py" line="86"/>
         <source>Visible Data Only</source>
-        <translation>Только видимые значения</translation>
+        <translation>Только видимые</translation>
     </message>
     <message>
         <location filename="../graphicsItems/ViewBox/axisCtrlTemplate_generic.py" line="87"/>
@@ -461,7 +461,7 @@
     <message>
         <location filename="../graphicsItems/ViewBox/axisCtrlTemplate_generic.py" line="88"/>
         <source>Auto Pan Only</source>
-        <translation>Только авто-панорамирование</translation>
+        <translation>Только а.-пан.</translation>
     </message>
     <message>
         <location filename="../GraphicsScene/exportDialogTemplate_generic.py" line="59"/>
@@ -690,7 +690,7 @@
     <message>
         <location filename="../graphicsItems/PlotItem/PlotItem.py" line="223"/>
         <source>Transforms</source>
-        <translation>Трансформировать</translation>
+        <translation>Преобразования</translation>
     </message>
     <message>
         <location filename="../graphicsItems/PlotItem/PlotItem.py" line="224"/>
