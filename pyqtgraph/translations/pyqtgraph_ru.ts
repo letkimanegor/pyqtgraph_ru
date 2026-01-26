@@ -63,17 +63,17 @@
     <message>
         <location filename="../exporters/SVGExporter.py" line="31"/>
         <source>width</source>
-        <translation></translation>
+        <translation>ширина</translation>
     </message>
     <message>
         <location filename="../exporters/SVGExporter.py" line="31"/>
         <source>height</source>
-        <translation></translation>
+        <translation>высота</translation>
     </message>
     <message>
         <location filename="../exporters/PrintExporter.py" line="40"/>
         <source>Print Document</source>
-        <translation>Печать документа</translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <location filename="../exporters/HDF5Exporter.py" line="24"/>
@@ -83,37 +83,37 @@
     <message>
         <location filename="../exporters/CSVExporter.py" line="21"/>
         <source>columnMode</source>
-        <translation></translation>
+        <translation>стиль колонки</translation>
     </message>
     <message>
         <location filename="../exporters/CSVExporter.py" line="21"/>
         <source>separator</source>
-        <translation></translation>
+        <translation>разделитель</translation>
     </message>
     <message>
         <location filename="../exporters/CSVExporter.py" line="21"/>
         <source>precision</source>
-        <translation></translation>
+        <translation>точность</translation>
     </message>
     <message>
         <location filename="../exporters/ImageExporter.py" line="29"/>
         <source>antialias</source>
-        <translation></translation>
+        <translation>сглаживание</translation>
     </message>
     <message>
         <location filename="../exporters/SVGExporter.py" line="31"/>
         <source>background</source>
-        <translation></translation>
+        <translation>фон</translation>
     </message>
     <message>
         <location filename="../exporters/ImageExporter.py" line="29"/>
         <source>invertValue</source>
-        <translation></translation>
+        <translation>инверсия яркости (HSV)</translation>
     </message>
     <message>
         <location filename="../exporters/SVGExporter.py" line="31"/>
         <source>scaling stroke</source>
-        <translation></translation>
+        <translation>масштабировать обводку</translation>
     </message>
 </context>
 <context>
@@ -151,7 +151,7 @@
     <message>
         <location filename="../imageview/ImageViewTemplate_generic.py" line="142"/>
         <source>ROI</source>
-        <translation></translation>
+        <translation>ROI</translation>
     </message>
     <message>
         <location filename="../imageview/ImageViewTemplate_generic.py" line="135"/>
@@ -191,17 +191,17 @@
     <message>
         <location filename="../imageview/ImageViewTemplate_generic.py" line="143"/>
         <source>X</source>
-        <translation></translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="../imageview/ImageViewTemplate_generic.py" line="144"/>
         <source>Y</source>
-        <translation></translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="../imageview/ImageViewTemplate_generic.py" line="145"/>
         <source>T</source>
-        <translation></translation>
+        <translation>T</translation>
     </message>
     <message>
         <location filename="../imageview/ImageViewTemplate_generic.py" line="146"/>
@@ -316,7 +316,7 @@
     <message>
         <location filename="../graphicsItems/PlotItem/plotConfigTemplate_generic.py" line="169"/>
         <source>x</source>
-        <translation></translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="../graphicsItems/PlotItem/plotConfigTemplate_generic.py" line="170"/>
@@ -524,12 +524,12 @@
     <message>
         <location filename="../graphicsItems/GradientEditorItem.py" line="435"/>
         <source>RGB</source>
-        <translation></translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="../graphicsItems/GradientEditorItem.py" line="438"/>
         <source>HSV</source>
-        <translation></translation>
+        <translation>HSV</translation>
     </message>
 </context>
 <context>
