@@ -1,4 +1,4 @@
-recursive-include pyqtgraph *.py *.ui *.m README.* *.txt *.gz *.cfg
+recursive-include pyqtgraph *.py *.ui *.m README.* *.txt *.gz *.cfg *.qm
 recursive-include doc *.rst *.py *.svg *.png
 recursive-include doc/build/html *
 recursive-include tools *
