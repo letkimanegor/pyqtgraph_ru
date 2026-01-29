@@ -54,7 +54,6 @@ setup(
             "colors/maps/*.csv",
             "colors/maps/*.txt",
             "colors/maps/*.hex",
-            "translations/*.qm",
         ],
     },
     install_requires = [
